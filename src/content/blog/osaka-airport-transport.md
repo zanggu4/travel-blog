@@ -2,7 +2,7 @@
 title: '오사카 간사이 공항에서 시내까지 교통 총정리 | 라피트 vs JR 하루카'
 description: '간사이 공항에서 오사카 시내까지 가는 방법을 완벽 비교! 난카이 라피트, JR 하루카, 주유패스까지 모든 교통 정보를 정리했어요.'
 pubDate: 'Mar 19 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/osaka-airport-hero.jpg'
 ---
 
 오사카 여행, 공항에서부터 시작이잖아요. 간사이 국제공항(KIX)에서 시내로 나가는 방법이 너무 많아서 헷갈리고 계신가요? 라피트, JR 하루카, 공항버스... 어떤 것을 선택해야 할지 고민이시죠?
@@ -19,6 +19,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 | 렌터카 | 90분 | ¥4,000~6,000 | O | 자유로운 여행 |
 
 ## 난카이 라피트 vs JR 하루카 상세 비교
+
+![난카이 라피트 특급 열차](https://images.unsplash.com/photo-1554672408-17407e0322ce?w=800&q=80)
 
 **난카이 라피트의 장점**
 - 가격이 저렴해요: ¥1,600 (하루카는 ¥2,000)
@@ -61,6 +63,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ## 오사카 주유패스 활용법
 
+![오사카 역 지하철 플랫폼](https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&q=80)
+
 오사카에 2일 이상 머무르신다면 꼭 고려해봐야 할 상품이에요.
 
 | 패스 종류 | 가격 | 포함 범위 | 효과 |
@@ -79,6 +83,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 💡 **꿀팁**: 3일 여행이면 거의 모든 경우에 주유패스가 도움이 돼요. 공항이나 주요 역에서 구매하세요!
 
 ## 공항에서 시내까지 추가 교통 정보
+
+![간사이 국제공항 터미널](https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800&q=80)
 
 **공항버스는 언제 이용할까?**
 - 짐이 정말 많을 때

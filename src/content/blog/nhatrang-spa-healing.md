@@ -2,7 +2,7 @@
 title: '나트랑 스파 천국 | 하루종일 힐링 코스 추천'
 description: '나트랑의 스파가 정말 좋다고 들었는데 어디를 가야할까요? 풋스파부터 전신 마사지까지 완벽하게 정리했어요.'
 pubDate: 'Mar 19 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/nhatrang-spa-hero.jpg'
 ---
 
 나트랑 해변에서의 하루가 피로했어요? 바다의 짠기와 햇빛으로 탈진된 몸과 마음, 스파로 회복하고 싶으신가요?
@@ -10,6 +10,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 저는 나트랑에서 호핑투어를 한 날, 저녁에 스파를 받으니까 정말 새 사람이 된 것 같았어요. 특히 나트랑의 스파는 가격도 저렴하고 수준도 높아서, 여행 피로 회복의 최고의 수단이거든요!
 
 이번 포스팅에서는 나트랑의 대표 스파 5곳을 비교하고, 하루종일 힐링하는 완벽한 코스를 제안해볼게요.
+
+![나트랑 스파에서의 릴렉싱](https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=800&q=80)
 
 ## 나트랑 스파 한눈에 비교
 
@@ -63,6 +65,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - 아로마 마사지: 향기와 함께하는 힐링
 
 당신이 원하는 스타일을 미리 말해서 조정 받을 수 있어요!
+
+![발 마사지 테라피](https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80)
 
 ## 3. 더 스파 | 가장 럭셔리한 경험
 
@@ -159,6 +163,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 **오후 8시 30분: 더 스파 또는 라운지 스파 (프리미엄 라운드)**
 
 90-120분의 여유로운 전신 마사지와 휴식.
+
+![나트랑의 열대 리조트 풍경](https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80)
 
 **밤 10시 30분: 숙소 귀가 & 숙면**
 

@@ -2,7 +2,7 @@
 title: '다낭 맛집 & 카페 투어 | 씨푸드 뷔페부터 인스타 감성까지'
 description: '다낭 대표 맛집과 감성 카페를 완벽 정리했어요. 랍스터 무한리필 뷔페, 고급 리조트 애프터눈 티, 인스타그램 핫플레이스까지!'
 pubDate: 'Mar 19 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/danang-food-hero.jpg'
 ---
 
 다낭 여행에서 음식은 절반이잖아요. 씨푸드 국가에서 신선한 해산물을 먹고, 감성 있는 카페에서 베트남의 느긋한 분위기를 즐기는 것이야말로 진정한 다낭 여행이라고 생각해요.
@@ -14,6 +14,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 다낭은 베트남 중부의 항구도시예요. 덕분에 신선한 해산물이 정말 저렴해요.
 
 **가격대 비교 (평균)**
+
 | 음식 | 가격 (개인 기준) | 특징 |
 |-----|-----------------|------|
 | 전형 포 (쌀국수) | ₩30,000~50,000 | 길거리 음식 |
@@ -23,6 +24,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 | 카페 | ₩50,000~100,000 | 감성 시간 |
 
 ## 꼭 가봐야 할 맛집
+
+![베트남 전통 포 쌀국수](https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800&q=80)
 
 ### 1. 올 시즌스 씨푸드 뷔페 (All Seasons Seafood Buffet)
 
@@ -88,6 +91,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 고급 리조트 뷔페라고 해서 가봤는데, 정말 품질이 다르더라고요. 한국의 리조트 뷔페와는 확실히 달라요.
 
 **강점**
+
 | 항목 | 평가 |
 |-----|------|
 | 해산물 신선도 | ⭐⭐⭐⭐⭐ |
@@ -109,6 +113,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - 스테이크→해산물 순서로 먹는 게 좋아요
 
 ## 감성 카페 PICK
+
+![베트남 전통 드립 커피와 카페](https://images.unsplash.com/photo-1517668808822-9ebb02ae2a0e?w=800&q=80)
 
 ### 베트남 전통 드립 커피 체험
 
@@ -134,6 +140,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - 사이곤 펄 (Saigon Pearl)
 
 **핸콕 스트리트 커피 후기**
+
 | 항목 | 평가 |
 |-----|------|
 | 인테리어 | ⭐⭐⭐⭐⭐ |
@@ -149,6 +156,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 - 베이커리도 훌륭해요
 
 ## 가격대별 음식 추천
+
+![베트남 반미 샌드위치](https://images.unsplash.com/photo-1576577445504-6af96477db52?w=800&q=80)
 
 **저예산 여행 (₩50,000 이하)**
 - 길거리 포 (쌀국수)
@@ -189,6 +198,7 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 ## 음식 투어 일정 추천
 
 **3일 다낭 음식 여행**
+
 | 끼니 | 식당 | 가격 |
 |-----|------|------|
 | 1일 아침 | 길거리 포 | ₩40,000 |

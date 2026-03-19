@@ -2,7 +2,7 @@
 title: '도쿄 나리타 공항 스카이라이너 탑승기 + 도쿄 메트로 꿀팁'
 description: '나리타 공항 스카이라이너 예약부터 탑승, 도쿄 메트로 패스 활용까지 완벽 가이드. eSIM 설정까지 정리했어요.'
 pubDate: 'Mar 19 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/tokyo-transport-hero.jpg'
 ---
 
 도쿄 나리타 공항에 도착했을 때, 공항에서 도심까지 어떻게 갈지 고민이신가요? 스카이라이너라는 말은 들었는데 예약 방법, 좌석 선택, 요금이 얼마나 드는지 궁금하시죠?
@@ -19,6 +19,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 | 렌터카 | 약 90분 | ¥4,000~6,000 | 자유로운 이동 |
 
 ## 스카이라이너 예약 방법 총정리
+
+![도쿄 스카이라인 야경](https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80)
 
 **온라인 사전 예약 (강력 추천!)**
 - 출발 14일 전부터 예약 가능
@@ -66,6 +68,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 
 ## 도쿄 메트로 패스 활용법
 
+![도쿄 메트로 역사 혼잡함](https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&q=80)
+
 도쿄에 머무르는 동안 메트로는 피할 수 없어요. 메트로 패스를 현명하게 사용해봅시다.
 
 | 패스 | 가격 | 포함 | 효과 |
@@ -87,6 +91,8 @@ heroImage: '../../assets/blog-placeholder-3.jpg'
 💡 **꿀팁**: 3일 이상 머무르면 72시간권이 정말 유리해요. 공항이나 역에서 바로 구매하세요!
 
 ## eSIM 설정 초간단 가이드
+
+![나리타 익스프레스 고속 열차](https://images.unsplash.com/photo-1554672408-17407e0322ce?w=800&q=80)
 
 도쿄 메트로를 이용할 때 실시간 위치 확인이 정말 중요해요. eSIM으로 현지 데이터를 확보하세요.
 
